@@ -1,0 +1,135 @@
+INFO	2020-11-06 11:41:15,344	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:41:15,347	3	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:41:40,590	25246	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:41:44,075	28731	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+ERROR	2020-11-06 11:42:00,232	44888	Pages.LoginPage	[main]	Exception occurred in enterUsername() method()
+INFO	2020-11-06 11:42:00,368	45024	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:42:21,425	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:42:21,428	3	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:42:47,925	26500	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:42:52,978	31553	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 11:42:56,462	35037	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 11:42:56,805	35380	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 11:42:57,694	36269	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 11:43:00,414	38989	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 11:43:00,661	39236	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 11:43:01,474	40049	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 11:43:01,621	40196	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:43:58,274	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:43:58,276	2	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:44:25,352	27078	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:44:31,252	32978	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 11:44:49,359	51085	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 11:44:49,704	51430	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 11:44:50,422	52148	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 11:44:53,786	55512	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 11:44:54,056	55782	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 11:44:54,904	56630	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 11:46:18,281	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:46:18,284	3	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:46:59,964	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:46:59,966	2	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:47:06,066	6102	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:48:27,717	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:48:27,721	4	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:48:53,295	25578	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:48:55,657	27940	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+ERROR	2020-11-06 11:49:21,898	54181	Pages.LoginPage	[main]	Exception occurred in enterUsername() method()
+INFO	2020-11-06 11:49:21,974	54257	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:49:57,703	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:49:57,706	3	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:50:09,245	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:50:09,250	5	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:50:36,525	27280	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:50:38,752	29507	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+ERROR	2020-11-06 11:51:00,379	51134	Pages.LoginPage	[main]	Exception occurred in enterUsername() method()
+INFO	2020-11-06 11:51:00,505	51260	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:52:02,632	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:52:02,637	5	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:52:29,388	26756	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:53:04,079	61447	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 11:53:17,427	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:53:17,433	6	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:53:45,547	28120	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:53:55,183	37756	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 11:53:58,596	41169	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 11:53:58,942	41515	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 11:53:59,620	42193	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 11:54:02,353	44926	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 11:54:02,602	45175	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 11:54:03,450	46023	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 11:54:25,014	67587	Pages.SearchPage	[main]	Total number of items are present into cart:1
+INFO	2020-11-06 11:54:37,254	79827	Pages.SearchPage	[main]	Clicked on Home Page present on Menu Drawer menu
+INFO	2020-11-06 11:54:38,221	80794	Pages.SearchPage	[main]	Clicked on Search Bar
+INFO	2020-11-06 11:54:44,468	87041	Pages.SearchPage	[main]	Samsung TV: text is entered to search
+INFO	2020-11-06 11:55:00,643	103216	Pages.SearchPage	[main]	Product Name :Samsung 109 cm (43 inches) 4K Ultra HD Smart LED TV UA43TU8000KBXL (Black) (2020 Model)
+INFO	2020-11-06 11:55:00,644	103217	Pages.SearchPage	[main]	Product price: 46490
+INFO	2020-11-06 11:55:05,203	107776	Pages.SearchPage	[main]	Clicked on 'Add to Cart' button
+ERROR	2020-11-06 11:55:06,974	109547	Pages.SearchPage	[main]	Exception occurred in navigateToCheckout() method()
+INFO	2020-11-06 11:55:07,109	109682	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 11:55:59,688	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 11:55:59,692	4	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 11:56:26,843	27155	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 11:56:34,415	34727	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 11:56:38,338	38650	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 11:56:38,670	38982	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 11:56:39,332	39644	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 11:56:42,582	42894	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 11:56:42,830	43142	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 11:56:43,662	43974	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 11:57:09,642	69954	Pages.SearchPage	[main]	Clicked on Home Page present on Menu Drawer menu
+INFO	2020-11-06 11:57:13,752	74064	Pages.SearchPage	[main]	Clicked on Search Bar
+INFO	2020-11-06 11:57:19,881	80193	Pages.SearchPage	[main]	Samsung TV: text is entered to search
+ERROR	2020-11-06 11:57:24,789	85101	Pages.SearchPage	[main]	Exception occurred in selectRandomProduct() method()
+INFO	2020-11-06 11:57:24,851	85163	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 12:00:57,691	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 12:00:57,696	5	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 12:01:25,864	28173	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 12:01:29,124	31433	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 12:01:33,259	35568	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 12:01:33,623	35932	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 12:01:34,346	36655	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 12:01:36,843	39152	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 12:01:37,074	39383	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 12:01:37,922	40231	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 12:02:02,192	64501	Pages.SearchPage	[main]	Clicked on Home Page present on Menu Drawer menu
+INFO	2020-11-06 12:02:05,494	67803	Pages.SearchPage	[main]	Clicked on Search Bar
+INFO	2020-11-06 12:02:11,617	73926	Pages.SearchPage	[main]	Samsung TV: text is entered to search
+INFO	2020-11-06 12:02:16,358	78667	Pages.SearchPage	[main]	Product has been selected
+INFO	2020-11-06 12:02:28,856	91165	Pages.SearchPage	[main]	Product Name :Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4310AKXXL (Glossy Black) (2020 Model)
+INFO	2020-11-06 12:02:28,856	91165	Pages.SearchPage	[main]	Product price: 18800
+INFO	2020-11-06 12:02:32,892	95201	Pages.SearchPage	[main]	Clicked on 'Add to Cart' button
+INFO	2020-11-06 12:02:39,679	101988	Pages.SearchPage	[main]	Clicked on 'Cart' button
+INFO	2020-11-06 12:02:48,311	110620	Pages.CheckOutPage	[main]	ProductName on ProductDetail page is:Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4310AKXXL (Glossy Black) (2020 Model)
+INFO	2020-11-06 12:02:48,311	110620	Pages.CheckOutPage	[main]	ProductName on CheckOut page is:Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4310AKXXL (...
+INFO	2020-11-06 12:02:48,311	110620	Pages.CheckOutPage	[main]	Product Price on ProductDetail page is:18800
+INFO	2020-11-06 12:02:48,311	110620	Pages.CheckOutPage	[main]	Product Price on CheckOut page is:18800
+INFO	2020-11-06 12:02:48,311	110620	Pages.CheckOutPage	[main]	Verification has been performed on Product Name, Product Price and Product Qty
+INFO	2020-11-06 12:02:48,467	110776	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 12:06:13,473	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 12:06:13,473	0	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 12:06:39,874	26401	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 12:06:43,600	30127	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+INFO	2020-11-06 12:06:47,125	33652	Pages.LoginPage	[main]	7058296228
+INFO	2020-11-06 12:06:47,470	33997	Pages.LoginPage	[main]	Username :7058296228
+INFO	2020-11-06 12:06:49,298	35825	Pages.LoginPage	[main]	Email or Phone number is entered and clicked on Continue button
+INFO	2020-11-06 12:06:52,353	38880	Pages.LoginPage	[main]	Password1
+INFO	2020-11-06 12:06:52,670	39197	Pages.LoginPage	[main]	Password :Password1
+INFO	2020-11-06 12:06:53,613	40140	Pages.LoginPage	[main]	Password is entered and clicked on Login button
+INFO	2020-11-06 12:07:12,573	59100	Pages.SearchPage	[main]	Total number of items are present into cart:2
+INFO	2020-11-06 12:07:23,853	70380	Pages.SearchPage	[main]	Clicked on Home Page present on Menu Drawer menu
+INFO	2020-11-06 12:07:26,087	72614	Pages.SearchPage	[main]	Clicked on Search Bar
+INFO	2020-11-06 12:07:32,220	78747	Pages.SearchPage	[main]	Samsung TV: text is entered to search
+INFO	2020-11-06 12:07:36,005	82532	Pages.SearchPage	[main]	Product has been selected
+ERROR	2020-11-06 12:07:44,683	91210	Pages.SearchPage	[main]	Exception occurred in getProductDetails() method()
+INFO	2020-11-06 12:07:44,760	91287	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 12:19:10,736	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 12:19:10,736	0	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 12:19:36,794	26058	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 12:19:39,717	28981	Pages.WelcomePage	[main]	Clicked on 'Sign In' button
+ERROR	2020-11-06 12:19:56,712	45976	Pages.LoginPage	[main]	Exception occurred in enterUsername() method()
+INFO	2020-11-06 12:19:56,795	46059	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
+INFO	2020-11-06 12:20:19,687	0	Modules.BaseApplicationSpecification	[main]	Appium server started running
+INFO	2020-11-06 12:20:19,706	19	Modules.BaseApplicationSpecification	[main]	Completed DesiredCapabilities
+INFO	2020-11-06 12:20:47,263	27576	Modules.BaseApplicationSpecification	[main]	Completed AndroidDriver configuration
+INFO	2020-11-06 12:21:02,811	43124	Modules.BaseApplicationSpecification	[main]	Appium server stopped running
